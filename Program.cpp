@@ -1,11 +1,12 @@
 #include <iostream>
+#include <cstdio>
+#define pi 3.14159
 using namespace std;
 int main()
 {
-    int a;
-    cin >> a;
-    cout << a << endl;
-    cout << "Sucessfully Printed";
+    double r;
+    cin >> r;
+    printf("A=%.4f\n", pi*r*r);
 
     return 0;
 }

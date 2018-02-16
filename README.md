@@ -4,3 +4,7 @@ Probem 1 (A): https://www.urionlinejudge.com.br/judge/en/problems/view/1002
 ---
 Probem 2 (A):  https://www.urionlinejudge.com.br/judge/en/problems/view/1019
 ---
+HW
+===
+Probem 3 (A):  https://www.urionlinejudge.com.br/judge/en/problems/view/1018
+---
